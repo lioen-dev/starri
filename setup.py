@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='starri',
-    version='1.1',
+    version='1.3',
     packages=find_packages(),
     install_requires=[
         'blessed>=1.20.0',
